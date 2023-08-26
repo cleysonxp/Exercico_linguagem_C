@@ -1,2 +1,2 @@
 # Exercico_linguagem_C
-Exercícios em linguagem emC 
+Exercícios em linguagem C 
